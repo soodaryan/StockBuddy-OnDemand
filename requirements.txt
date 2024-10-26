@@ -1,5 +1,5 @@
 llama-index
 selenium
-llama_index.embeddings.huggingface
-llama_index.core.node_parser
-llama_index.llms.groq 
+# llama_index.embeddings.huggingface
+# llama_index.core.node_parser
+# llama_index.llms.groq 
