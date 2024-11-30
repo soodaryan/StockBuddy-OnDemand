@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 
 # API configurations
-API_KEY = "Ve1rDGO2K0yBhbEH71HcTJn7wJrUTw5H"
-USER_ID = "user"
+API_KEY = "..."
+USER_ID = "..."
 
 # Function to create a chat session with the API
 def create_chat_session():
